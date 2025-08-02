@@ -8,5 +8,7 @@
 <p align="center">
   <b>A simple introduction to JavaScript based on what I have learned</b>
 </p>
-
+<p align="center">
+  <i>Let's start comfortably</i>
+</p>
 ---
